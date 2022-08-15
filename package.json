@@ -1,17 +1,14 @@
 {
-  "name": "pannellum",
+  "name": "pannellum-rooms",
   "description": "Pannellum is a lightweight, free, and open source panorama viewer for the web.",
   "version": "2.5.6",
   "bugs": {
     "url": "https://github.com/mpetroff/pannellum/issues"
   },
-  "author": {
-    "name": "Matthew Petroff",
-    "url": "https://mpetroff.net/"
-  },
+  "author": "Matthew Petroff (https://mpetroff.net/)",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mpetroff/pannellum.git"
+    "url": "git+https://github.com/mpetroff/pannellum.git"
   },
   "license": "MIT",
   "homepage": "https://pannellum.org/",
@@ -19,5 +16,13 @@
   "keywords": [
     "panorama",
     "viewer"
-  ]
+  ],
+  "directories": {
+    "doc": "doc",
+    "example": "examples",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }
