@@ -149,7 +149,7 @@ defaultConfig.strings = {
 // Initialize container
 container = typeof container === 'string' ? document.getElementById(container) : container;
 container.classList.add('pnlm-container');
-container.tabIndex = 0;
+container.tabIndex = -1;
 
 // Create container for ui
 var uiContainer = document.createElement('div');
