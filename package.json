@@ -1,28 +1,19 @@
 {
   "name": "pannellum-rooms",
-  "description": "Pannellum is a lightweight, free, and open source panorama viewer for the web. Reset tabIndex to -1",
-  "version": "2.5.6",
-  "bugs": {
-    "url": ""
+  "version": "1.0.0",
+  "description": "reset tabIndex to -1 form original code by Matthew Petroff https://github.com/mpetroff/pannellum",
+  "main": "pannellum.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Rick Smoke from Matthew Petroff (https://mpetroff.net/) original code",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/lsa-mis/pannellum-rooms.git"
   },
+  "author": "Rick Smoke (rsmoke@umich.edu)",
   "license": "MIT",
-  "homepage": "https://pannellum.org/",
-  "main": "build/pannellum.js",
-  "keywords": [
-    "panorama",
-    "viewer"
-  ],
-  "directories": {
-    "doc": "doc",
-    "example": "examples",
-    "test": "tests"
+  "bugs": {
+    "url": "https://github.com/lsa-mis/pannellum-rooms/issues"
   },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  }
+  "homepage": "https://github.com/lsa-mis/pannellum-rooms#readme"
 }
