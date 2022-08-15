@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/lsa-mis/pannellum-rooms/issues"
   },
-  "homepage": "https://github.com/lsa-mis/pannellum-rooms#readme"
+  "homepage": "https://github.com/lsa-mis/pannellum-rooms#readme",
+  "dependencies": {
+    "pannellum-rooms": "^2.5.6"
+  }
 }
