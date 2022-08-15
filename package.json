@@ -1,6 +1,6 @@
 {
   "name": "pannellum-rooms",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "reset tabIndex to -1 and pnlm-load-button element to a div from original code by Matthew Petroff https://github.com/mpetroff/pannellum",
   "main": "pannellum.js",
   "scripts": {
@@ -15,8 +15,5 @@
   "bugs": {
     "url": "https://github.com/lsa-mis/pannellum-rooms/issues"
   },
-  "homepage": "https://github.com/lsa-mis/pannellum-rooms#readme",
-  "dependencies": {
-    "pannellum-rooms": "1.0.1"
-  }
+  "homepage": "https://github.com/lsa-mis/pannellum-rooms#readme"
 }
