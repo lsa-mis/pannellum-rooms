@@ -1,7 +1,7 @@
 {
   "name": "pannellum-rooms",
-  "version": "1.0.0",
-  "description": "reset tabIndex to -1 form original code by Matthew Petroff https://github.com/mpetroff/pannellum",
+  "version": "1.0.1",
+  "description": "reset tabIndex to -1 and pnlm-load-button element to a div from original code by Matthew Petroff https://github.com/mpetroff/pannellum",
   "main": "pannellum.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
